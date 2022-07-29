@@ -1,2 +1,2 @@
-Scrapy==2.3.0
+Scrapy==2.6.2
 scrapy-fake-useragent==1.4.4
